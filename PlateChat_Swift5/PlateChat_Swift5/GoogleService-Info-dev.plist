@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>849249767993-dsd5u8qpt1c02r2uv3kotku95johqgqd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.849249767993-dsd5u8qpt1c02r2uv3kotku95johqgqd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQDP68sqWZoDgIqDDvzQ4_qvsIf4A2OVM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>849249767993</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>net.deskplate.s-chat.dev</string>
+	<key>PROJECT_ID</key>
+	<string>platechat-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>platechat-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:849249767993:ios:3aa9a0111aa7d4d03d73e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://platechat-dev.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module Pods_PlateChat_Swift5 {
+  umbrella header "Pods-PlateChat_Swift5-umbrella.h"
+
+  export *
+  module * { export * }
+}

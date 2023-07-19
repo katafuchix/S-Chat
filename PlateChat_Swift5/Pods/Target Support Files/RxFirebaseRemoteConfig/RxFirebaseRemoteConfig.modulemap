@@ -1,0 +1,6 @@
+framework module RxFirebaseRemoteConfig {
+  umbrella header "RxFirebaseRemoteConfig-umbrella.h"
+
+  export *
+  module * { export * }
+}
